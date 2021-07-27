@@ -1,0 +1,104 @@
+html {
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 4rem;
+    margin-bottom: 1.5rem;
+}
+
+p {
+    color: olive;
+    font-size: 26px;
+}
+
+header {
+    background-color: #f60; /* This is the same as #ff6600.*/
+    width: 80%;
+    margin-left: 10%;
+}
+
+header p {
+    background-color: snow;
+    border: 1px solid gray;
+}
+
+img {
+    width: 100%;
+}
+
+#header-box {
+    width: 50%;
+    background-color: #33d549;
+}
+
+footer {
+    background-color: lightcoral;
+}
+
+a:link {
+    color: darkblue;
+    background-color: peachpuff;
+    text-decoration: none;
+}
+
+a:visited {
+    color: seagreen;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:focus {
+    color: rgb(255, 255, 255);
+    background-color: rgba(255, 165, 0, 0.5);
+}
+
+ol li {
+    letter-spacing: 3px;
+    color: tomato;
+}
+
+ol li:first-child {
+    font-weight: bold;
+}
+
+ul li {
+    list-style: none;
+}
+
+#education {
+    border: 3px solid red;
+}
+
+#education h3 {
+    font-family: Arial, sans-serif;
+    font-size: 32px;
+}
+
+#skills-list {
+    background-color: aliceblue;
+    padding: 36px;
+}
+
+.top-skill {
+    font-weight: bold;
+    background-color: teal;
+    color: papayawhip;
+}
+
+.date {
+    border: 2px solid steelblue;
+    border-radius: 12px;
+    padding: 6px;
+}
+
+.special {
+    text-transform: uppercase;
+    background-color: papayawhip;
+}
+
+#proud {
+    font-size: 48px;
+}
