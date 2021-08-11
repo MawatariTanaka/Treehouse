@@ -5,7 +5,7 @@ Edit the math.js file to accomplish these 4 goals:
 2. Add an if statement to test that the 2nd input is not zero. You can't divide by 0,
    so notify the user with an alert, that they need to reload and try again. 
    Here's one possible alert message:
-   ""The second number is 0. You can't divide by zero. Reload and try again."
+   "The second number is 0. You can't divide by zero. Reload and try again."
    
 3. Check to see if the first OR second input are numbers.
    Use JavaScript's isNaN() method to check. See the
