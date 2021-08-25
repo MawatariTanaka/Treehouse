@@ -3,6 +3,11 @@
 ==================================== */
 
 .container {
-  display: flex;
-  height: 300px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.item-2 {
+	margin-right: auto;
 }
