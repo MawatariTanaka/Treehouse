@@ -1,16 +1,13 @@
+
 /* ================================= 
   Flexbox
 ==================================== */
 
 .container {
 	display: flex;
-	flex-wrap: wrap;
+	min-height: 50vh;
 }
 
 .item {
-	flex-grow: 1;
-}
-
-.item-1 {
-	flex-grow: 4;
+	margin: auto;
 }
