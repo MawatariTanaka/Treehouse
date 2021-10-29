@@ -1,0 +1,11 @@
+Further reading
+    FontAwesome
+    Designing for Cognitive Differences
+    Cognitive Disabilities and the Web: Where Accessibility and Usability Meet?
+    How to Disable Links | CSS Tricks
+    Checkout Usability: Auto-Detect ‘City’ and ‘State’ Inputs Based on the User’s Postal Code (60% of Sites Don’t)
+    Automatic City Lookup with Google’s Location API
+    Form Field Usability: Consider Using Localized Input Masks for ‘Phone’ and Other Restricted Inputs (64% Don’t)
+    15 JavaScript Input Mask Libraries
+    GitHub Pages | Websites for you and your projects
+    Client-side form validation | MDN

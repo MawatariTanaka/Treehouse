@@ -1,0 +1,131 @@
+1. What is Accessibility?
+
+Common Assistive Technologies
+    Screen reader: software that reads web content aloud to assist visually impaired users
+    Screen magnifier: used to enlarge content for users with sight impairments
+    Switch controls: a switch allows users with motor impairments to control your site without the use of a touchscreen, mouse, or keyboard
+    Closed captioning: used to make videos accessible to deaf and hard-of-hearing users, as well as users with Auditory Processing Disorder
+
+    Vocabulary
+        Accessible design: a design process in which the needs of people with disabilities are specifically considered
+        Curb-cut effect: the idea that accessibility has benefits beyond allowing people with disabilities to use your product
+
+WCAG Perceivable Principle
+    Text alternatives
+    Captions and transcripts
+    Use semantic HTML
+    Portrait and landscape orientation
+    Sufficient color contrast
+    Combine multiple visual cues, not just color
+    Avoid autostarting audio or video
+    Responsive body copy
+    Legible at 200% zoom
+
+    Further reading
+        Alt Text for Images
+        Adding Subtitles to YouTube Videos
+        Providing closed captions
+        Perceivable Web Content at MDN
+        HTML: a good basis for accessibility
+        Getting to Know HTML
+        Extending Semantics and Accessibility
+        axe: Accessibility Testing Tools and Software
+        Google lighthouse
+        Understanding WCAG 2.1 – 1.3.4 Orientation
+        Accessibility for Visual Design
+        Give Yourself an Accessibility Test: Zoom Your Page to 200%
+
+    Closed captioning resources
+        Rev
+        Amara
+        DotSUB
+        Subtitle Horse
+        Described and Captioned Media Program
+
+WCAG Operable Principle
+    Keyboard navigation
+    Obvious focus indicators
+    Allow enough time
+    Disable distracting content
+    Careful with flashing animations
+    Help users navigate
+    Descriptive page <title>
+    Make link purpose clear
+    Semantic heading structure
+    Provide alternatives to complex interactions
+    Generous target sizes
+
+    Further reading
+        Keyboard Compatibility
+        Keyboard Accessibility
+        What are Keyboard Traps?
+        Mac Accessibility Shortcuts
+        Ways we make the Slack iOS app accessible
+        Photosensitivity and Seizures
+        Operable - Accessibility | MDN
+        Accessibility - Wikipedia
+        Headings | Usability & Web Accessibility
+        Touch Gesture Guide
+        Apple’s UI Design Dos and Don’ts
+
+WCAG Understandable Principle
+    Set HTML language attribute
+    Use plain language
+    Create predictable navigation
+    No unexpected changes in context
+    Make errors easy to spot and correct
+
+    Resources
+        plainlanguage.gov
+        Five Steps to Plain Language
+        Guideline 3.2 — Predictable
+        How to Report Errors in Forms: 10 Design Guidelines
+
+    Vocabulary
+        Change in context: To avoid disorienting users, the following should happen only when the user initiates a change by interacting with an interface element:
+            opening a new window
+            loading a new page
+            significantly rearranging page content
+            moving focus to a new component.
+
+WCAG Robust Principle
+    Write valid HTML
+    Use semantic markup
+    Changes in content status
+
+    Further reading
+        Getting to Know HTML
+        https://html5.validator.nu/
+        Google Lighthouse
+        axe: Accessibility Testing Tools and Software
+        Exploring WCAG 2.1 — 4.1.3 Status Messages
+
+Accessibility and Product Development
+    Further Reading
+        User Research with People with Disabilities
+        The Importance Of Manual Accessibility Testing
+        Tips For Conducting Usability Studies With Participants With Disabilities
+        Accessibility - Apple
+
+Form Accessibility
+
+Principles of an Accessible Form
+    Avoid unnecessary questions
+    Minimize questions per screen
+    Provide context clues
+    Group related questions
+    Use clear input labels
+    Make focus indicators obvious
+    Help users spot and correct errors
+
+Vocabulary
+    Chunking: breaking a form into steps
+
+Further Reading
+    41 Cart Abandonment Rate Statistics
+    Accessibility user testing: a cautionary tale
+    Better Form Design: One Thing Per Page (Case Study)
+    Best Practices for Mobile Form Design
+    Designing Accessible Forms
+    Designing accessible forms: the 10 foundational rules
+    Recruiting Usability Test Participants
